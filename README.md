@@ -24,8 +24,11 @@
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> |
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> |
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=unstopablesid&theme=tokyonight)<br/>
+
+<img src="https://www.holopin.io/images/Long.svg" width="100" />
+
+ [![An image of @unstopablesid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unstopablesid)](https://holopin.io/@unstopablesid)
+
  
 
 [![](https://visitcount.itsvg.in/api?id=unstopablesid&icon=0&color=0)](https://visitcount.itsvg.in)
