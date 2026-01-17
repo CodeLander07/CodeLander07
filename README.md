@@ -3,7 +3,7 @@
 </a>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning ReactNative<br><br>👯 I’m looking to collaborate on Open source<br><br>🤝 I’m looking for help with UI/UX design<br><br>💬 Ask me about python<br><br>📫 How to reach me Mrsidharth2004@gmail.com
+🔭 I’m currently working on Fullstack Developer Intern<br><br>>👯 I’m looking to collaborate on Hackathons<br><br>📫 How to reach me Mrsidharth2004@gmail.com
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 🌐 Socials:
